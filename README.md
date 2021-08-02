@@ -1,13 +1,15 @@
 <div align="center"><h1>Hello World 👋 I'm Rachel Hendricks, thanks for visiting my page!</h1></div>
 
-### Check out my work below and feel free to connect with me!
+<div align="center"><h3>Check out my work below and feel free to connect with me!</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-hendricks92/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachelhen92@gmail.com)
+</div>
 
 ### GitHub Stats:
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +21,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 <!--
 **rhen92/rhen92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
