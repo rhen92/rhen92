@@ -2,6 +2,7 @@
 
 ### Check out my work below and feel free to connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-hendricks92/)
+[![Turing]((https://img.shields.io/badge/Turing-%23121011.svg?style=for-the-badge&logo=turing&logoColor=white))]
 
 ### GitHub Stats:
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
