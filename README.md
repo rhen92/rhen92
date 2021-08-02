@@ -1,7 +1,7 @@
 ## Hello World 👋 I'm Rachel Hendricks, thanks for visiting my page!
 
 ### Check out my work below and feel free to connect with me!
-[![Rachel's LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/rachel-hendricks92/)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/rachel-hendricks92/)
 
 ### GitHub Stats:
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
