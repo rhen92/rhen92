@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Rachel Hendricks, thanks for visiting my page!
+
+### GitHub Stats:
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rhen92/rhen92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
