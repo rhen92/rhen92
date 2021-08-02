@@ -1,4 +1,4 @@
-<div align="center">## Hello World 👋 I'm Rachel Hendricks, thanks for visiting my page!</div>
+<div align="center"><h1>Hello World 👋 I'm Rachel Hendricks, thanks for visiting my page!</h1></div>
 
 ### Check out my work below and feel free to connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-hendricks92/)
