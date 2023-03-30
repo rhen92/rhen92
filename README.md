@@ -6,7 +6,7 @@
 
 
 ### GitHub Stats:
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
