@@ -1,12 +1,12 @@
 <div align="center"><h1>Hello 👋 I'm Rachel Hendricks, thanks for visiting my page!</h1></div>
 
-### Check out my work below and feel free to connect with me!
+### Feel free to connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-hendricks92/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachelhen92@gmail.com)
 
-
+<!-- 
 ### GitHub Stats:
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhen92&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
